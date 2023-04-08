@@ -130,6 +130,7 @@ regs = ["ITS1", "ITS1-ITS2", "ITS2"]
 targets = ["Fungi"]
 layouts = ["single", "paired"]
 
+buffer = ""
 for r in regs:
     for t in targets:
         for layout in layouts:
@@ -139,3 +140,6 @@ for r in regs:
             if len(sub_df) > 0:
                 with open(F"../data/metadata/srr_list_{t}_{r}_{layout}.txt", "w") as ofile:
                     ofile.write("\n".join([x.split(".")[0] for x in sub_df.index]))
+                buffer += F"{t} {r} {layout}\n"
+with open("../data/metadata/srr_targets_regions.txt", "w") as ofile:
+    ofile.write(buffer)

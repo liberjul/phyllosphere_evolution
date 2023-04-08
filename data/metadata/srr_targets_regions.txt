@@ -1,0 +1,4 @@
+Fungi ITS1 paired
+Fungi ITS1-ITS2 paired
+Fungi ITS2 single
+Fungi ITS2 paired
