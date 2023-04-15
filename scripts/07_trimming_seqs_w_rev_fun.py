@@ -34,22 +34,26 @@ primer_dict = {
 "ITS3_KYO2-ITS4" : ["TAGAGGAAGTAAAAGTCGTAA", "TCCTCCGCTTATTGATATGC"]
 }
 
-srr_dat = pd.read_csv("srr_with_host_taxonomy.txt", sep = "\t")
-srr_agg = pd.read_csv("srr_aggregatted_by_target_region.txt", sep = "\t", header = None)
-srrs_incl = list(srr_agg[3])
+srr_dat = pd.read_csv("../data/metadata/srr_accessions_with_metadata_nonphyllo.txt", sep = "\t",  index_col=0)
 
+srr_files = glob.glob("../data/SRA_files/*/SRR[0-9]*.fastq.gz")
+srr_files = [os.path.basename(x).split(".")[0] for x in srr_files]
+srrs_incl = set([x.split("_")[0] for x in srr_files])
 
+print(srrs_incl)
+
+# subprocess.run("conda init bash; conda activate qiime2-2023.2", shell=True)
 for i in range(len(srr_dat)):
-    primer_set = srr_dat["Primer_set"][i]
-    fwd_primer_seq, rev_primer_seq = primer_dict[primer_set]
-    fwd_rc, rev_rc = str(Seq(fwd_primer_seq).reverse_complement()), str(Seq(rev_primer_seq).reverse_complement())
-    fwd_file, rev_file = srr_dat["Fwd_file"][i], srr_dat["Rev_file"][i]
-    # print(fwd_file, rev_file)
-    if srr_dat["SRR_acc"][i] in srrs_incl and srr_dat["Target"][i] == "Fungi":
-        if "." in str(fwd_file) and "." in str(rev_file):
-            inpath = F'../data/SRA_files/uncut_seqs/{srr_dat["SRR_acc"][i]}'
-            outpath = F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_pe/JL_{srr_dat["SRR_acc"][i]}_L001_R'
-            if len(glob.glob(F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_pe/JL_...._{srr_dat["SRR_acc"][i]}_L001_R._001.fastq.gz')) > 0:
+    if srr_dat.index[i] in srrs_incl and srr_dat["Target"][i] == "Fungi":
+        primer_set, layout = srr_dat["Primer_set"][i], srr_dat["Layout"][i]
+        if "SRR749" in srr_dat.index[i]:
+            layout = "single"
+        fwd_primer_seq, rev_primer_seq = primer_dict[primer_set]
+        fwd_rc, rev_rc = str(Seq(fwd_primer_seq).reverse_complement()), str(Seq(rev_primer_seq).reverse_complement())
+        if layout == "paired":
+            inpath = F'../data/SRA_files/uncut_seqs/{srr_dat.index[i]}'
+            outpath = F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_paired/JL_{srr_dat.index[i]}_L001_R'
+            if len(glob.glob(F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_paired/JL_...._{srr_dat.index[i]}_L001_R._001.fastq.gz')) > 0:
                 pass
             elif os.path.exists(inpath + "_1.sampled.fastq.gz"):
                 cmd = F"cutadapt -a {fwd_primer_seq}...{rev_rc} -A {rev_primer_seq}...{fwd_rc} -e .1 -j 24 -m 150 -o {outpath}1_001.cutadapt.fastq.gz -p {outpath}2_001.cutadapt.fastq.gz {inpath}_1.sampled.fastq.gz {inpath}_2.sampled.fastq.gz"
@@ -57,11 +61,11 @@ for i in range(len(srr_dat)):
             elif os.path.exists(inpath + "_1.fastq.gz") and os.path.exists(inpath + "_2.fastq.gz") and not os.path.exists(F"{outpath}1_001.cutadapt.fastq.gz"):
                 cmd = F"cutadapt -a {fwd_primer_seq}...{rev_rc} -A {rev_primer_seq}...{fwd_rc} -e .1 -j 24 -m 150 -o {outpath}1_001.cutadapt.fastq.gz -p {outpath}2_001.cutadapt.fastq.gz {inpath}_1.fastq.gz {inpath}_2.fastq.gz"
                 subprocess.run(cmd, shell = True)
-        elif "." in str(fwd_file):
-            inpath = F'../data/SRA_files/{srr_dat["SRR_acc"][i]}'
-            outpath = F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_se/JL_{srr_dat["SRR_acc"][i]}_L001_R'
+        elif layout == "single":
+            inpath = F'../data/SRA_files/uncut_seqs/{srr_dat.index[i]}'
+            outpath = F'../data/SRA_files/{srr_dat["Target"][i]}_{srr_dat["Region"][i]}_single/JL_{srr_dat.index[i]}_L001_R'
             if os.path.exists(inpath + ".fastq.gz") and not os.path.exists(F"{outpath}1_001.cutadapt.fastq.gz"):
                 cmd = F"cutadapt -a {fwd_primer_seq}...{rev_rc} -e .1 -j 24 -m 150 -o {outpath}1_001.cutadapt.fastq.gz {inpath}.fastq.gz"
                 subprocess.run(cmd, shell = True)
         else:
-            print(F"{SRR_acc} does not have a filename")
+            print(F"No layout provided for {srr_dat.index[i]}")

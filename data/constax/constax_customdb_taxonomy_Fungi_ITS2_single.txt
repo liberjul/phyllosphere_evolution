@@ -1,0 +1,386 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	High_level_taxonomy	HL_hit_percent_id	HL_hit_query_cover	Consistent_hierarchy
+5388e47c7a7e917f08cb43964aa0a516	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Cistella		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.815	85	1
+eac61ba264aad5d6c0e34a8ed2fbf207	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Thaxterogaster	Thaxterogaster caesiophylloides		0	0	1
+dcdd80781f658db44971e3bfc7a14003	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.209	99	1
+63e8d2630fe6eccbf4019feb3eafe5ef	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.725	81	1
+d310e10d335e553ab7c84c0abb405f67	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius orasericeus		0	0	1
+2c561729b75b256e98e6e9459e54bada	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.303	100	1
+5d2993190265c82a8c5b6a4630bb94c5	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.400	97	0
+211f4989fb7bcaf642f9b5ad698679b5	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius melleopallens		0	0	1
+966fedbf784603ef60360271f31f43bb	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.426	84	1
+a817097cfd503703a039396b3df24cbf	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.400	97	0
+c4e91b59d7565dad52ab53ed85e27bcf	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Meliniomyces		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.818	86	1
+ed9c6d055682609fc6bb439e4ed0b483	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae				0	0	0
+3cc6fddd1e4eb6341550f00873ec90cb	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	85.500	79	1
+891dd53fbce8431555585af8c0024e5d	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	85.500	79	1
+2a2b21f980b30b0179d0c60e77386227	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.426	84	1
+03af440e73b3a85a6c9caa6a36a491cc	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	83.721	100	0
+e37f6ed4ad15ef6706b4b3f6ecf39a21	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.887	97	0
+a3037f183bd792435d128db71d143872	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis			0	0	1
+30994438e8b4773de35ecbd314c1fc23	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+5e2226e65553f1b2b588f59e59a4e074	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.735	78	1
+df6a2860b402daf901124d646e6b649c	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus			0	0	1
+674867e17dd12ed7987322e09e2e5350	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+0288b29bcd1eea8e826919d3c0684e46	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.294	78	1
+fd5b1c3425e4584fb61617f7abd64c80	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.303	100	1
+e8ec21e79dd66e337e0aaab4f3bd2232	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.600	97	0
+b6a444e189394b31a2162a85ff8d3247	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+01b6466ef5addedfc7c3548cbb894b51	Fungi	Basidiomycota	Gs25						0	0	0
+2d7f0aee510581daeeac89402ed21b07	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.963	84	1
+24ff6c5835dad37377d79804b0661621	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+2a1e578ca2bf4c5b730885e6cdb3b873	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.303	100	1
+3c103e7548d8bd66240f6008ff9ebd91	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.682	100	1
+ad9c8ec00cb3237b9f06753a1f0a2072	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+391681cee96ba7747f55713860512529	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.769	100	1
+e556926caff9e23fa82039f96b6bd76c	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+068ef368fa4a9b082047b084cb0c33f9	Fungi	Basidiomycota	Gs25						0	0	0
+e40de61baf0bfd4876bca815dfd6ffa8	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae				0	0	1
+e440dfbe63535487228bcd9d9f6cdcef	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.383	83	0
+52c8d5c9c0684b0d80645fdc2264a7cf	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis			0	0	1
+4e73e1a89e722b2ecfb5e7c18e0573df	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.318	83	0
+4bd703f0168caf6a77eadc419e2692ac	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.364	79	1
+40db72400da2943738d41cfeed15bdd3	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella	Mortierella macrocystis		0	0	1
+33aec954ff18bb1eaabc10d887b14b53	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.698	97	1
+5c5484de6d81db42249d976ee205a9ba	Fungi								0	0	0
+496fcba4b309fda32f68a7c3b51be8e6	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.957	89	1
+d4e2062d79a6099e1dbe54c3c616c922	Fungi	Basidiomycota	Tritirachiomycetes	Tritirachiales	Tritirachiaceae	Paratritirachium			0	0	1
+367e0ff8b0faf2b1e49d75d1e4023b5f	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.976	100	0
+038e856156aef7c247369bca3c2ef388	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+7649bfb0e3c698f7bb9a12ce364dcf7f	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Lachnellula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.862	85	1
+c7397e112347664a402d51a5c99d5989	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+da406779b1a42aeef1373e08be96b998	Fungi	Basidiomycota	Microbotryomycetes						0	0	1
+5f7f50b8ee5578e2657ada50b5f2acbc	Fungi								0	0	0
+09f7acca2c09161d75a135ac4feff05e	Fungi	Ascomycota	Leotiomycetes	Helotiales	Sclerotiniaceae	Stromatinia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	92.829	100	1
+7abae53d02ebf7daf09c23a6ff5d6cef	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	90.640	80	0
+66e4c5e16dd5d2e07580f8c62b8567da	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.991	86	1
+d1bfdf6eb3bcfd88f2dfd32e98a825fd	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+1801fad183ab2e9c4674adfc12a27db9	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	Hyaloscypha fuckelii	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.822	99	1
+1e638a2ac17ddfc89a4c9899b0fff399	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	Hyaloscypha variabilis	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.056	98	1
+64ff3da31faaa382bd78aaba2bb63f35	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha	Hyaloscypha variabilis	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.056	98	1
+4becb51e74841ee8e83b5cd1f7b48127	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella			0	0	1
+874fbdb8b382d978afa78fe04e3f1394	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Gymnostellatospora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.352	99	1
+b4215c7e53768e2437c73128acd82030	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.325	78	1
+cdcfc990bc1103ab3f3da000e3d34d19	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+95c41a55f36ca189ce473367103daff0	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma			0	0	1
+bc8a8ca7545547396cce85d3fa9a2778	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.345	97	0
+cd6e458c670f39ad20fd9719a0989b5b	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+cc0c6a67f26caf66e4d100611ccaddb8	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma			0	0	1
+1c2e6a1284cc29fa258fd77ffdc19bb2	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius mattiae		0	0	1
+b1389623cb4d3f9b85d6690862bf213f	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae	Cenococcum	Cenococcum geophilum	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.442	84	1
+08003cade4433aa1d556d98c342827cb	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe			0	0	1
+9503246c613272bb1785c74e3c6bbc70	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+7e64716e38dead6998a802abc327d262	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae	Cenococcum	Cenococcum geophilum		0	0	1
+65111667059aebf16678c0a74724a109	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius praestigiosus		0	0	1
+d63301a7a0c2875bb9db4e82b91ddc5a	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+f4a8a447efc41016346031c9f82bdf48	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma			0	0	1
+0c5419a6dcb3114dad0712dafe40aac3	Fungi	Ascomycota	Leotiomycetes	Helotiales		Chalara		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.739	87	0
+a668b222d1f69e50667e00cf6a2af376	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae				0	0	1
+f86420e882c89326f766008be2545452	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+f939d037dda4bc9b27408cd68cd8078d	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.364	79	1
+986e320a2865c41104cbabe8b6882c75	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella			0	0	1
+3ff206a68629901a2521e29e3c5fc2ac	Fungi	Ascomycota	Leotiomycetes	Leotiales					0	0	0
+cfd74dd8e4c2867e2406887eb3dd465b	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	84.689	80	1
+5840096a4d054554985b0230ac508bb5	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+93ce8a35232020eb921a5141619f5a44	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.047	99	1
+0059b81d40663394c86e366673f7896e	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	84.689	80	1
+ad51ef9e237d51d0206437da540eaaaa	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	87.967	95	1
+fe5fb0fad5c4bf7270a33b5287600c99	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+ec79495da27fb8393cb1cbaca0906fbd	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	Russula medullata		0	0	1
+0f042d1f28ecbfc00f279ebc98cf9876	Fungi	Ascomycota	Eurotiomycetes	Sclerococcales					0	0	0
+7ce6b9842f4f15b0a4a94dc31a500c60	Fungi	Basidiomycota	Microbotryomycetes						0	0	1
+e3ce614ed46adc5fb106764e93a2b2b7	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae				0	0	1
+fe30cd2283401ec109620c3e0d6a51ab	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+d0912713358864ccf3748a10683e6753	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	85.222	80	1
+3dfc1074fcf7ca52d95e75a0e12e0e50	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.627	100	0
+b262ef3e4627653d843e190cb629d868	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.826	89	1
+f1e4104cf916eb5ba0a8ebc7584adbfb	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Hymenoscyphus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	90.244	80	1
+7dcc6523bab574f56236219534a7ca4d	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.286	99	1
+b73fb6686f84768c5c0bfb41bbdfd0f2	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+fb177873ad2e68aadda4febb003c19bb	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+3371cafa2a5d4e0a111215cf5ee9b21a	Fungi	Ascomycota	Sordariomycetes	Sordariales		Papulaspora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.402	99	0
+0ee9c8bd9d396bf7aa3c1110eaa41ada	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae				0	0	0
+e3eca0dfe92045ae65a2a9572958e445	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+0ea6a0c5d66db506d5d8461baeb047bd	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis			0	0	1
+38db61725e32d3d195e7071efb914673	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.141	97	1
+a93e1bc42429d9cfacf29c3dfc331864	Fungi	Ascomycota	Leotiomycetes	Helotiales	Myxotrichaceae	Oidiodendron			0	0	1
+aba41ae31bd869a47d4d05bb221c8962	Fungi								0	0	0
+32b23a167d7d2ed34daf2ba298ef8609	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.235	100	1
+ca6ade5b8c0dd31f07577bf716b4c4a2	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hamatocanthoscyphaceae	Xenopolyscytalum		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.290	97	1
+00d76a2e367920995ecfa89a74124e6e	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Gymnostellatospora	Gymnostellatospora japonica	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.402	99	1
+2fed581ef2341d8f0a1fa8f212a90785	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hamatocanthoscyphaceae	Xenopolyscytalum		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.694	97	1
+843ea7c9e4f2143c59bef5877bd1b901	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.328	98	1
+efd55cfb663e1dd257c967b539ee995b	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.271	99	1
+207bb4d1c5c2fa7bd76b23cc71818c9d	Fungi	Ascomycota	Eurotiomycetes	Sclerococcales					0	0	0
+9b34dac45851a1a6dbecd58176b4c838	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.667	98	1
+bd131037078b1b21f60bb3df8388a184	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+470e732f1d61c643ff263fd0a5b383be	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Meliniomyces		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.714	87	1
+20240be495819117cc5c4ca4dc45428d	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.957	97	1
+a7c7ed6a81ab4d6738595950cfa44215	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.000	87	1
+1eb68a07b9294332579444749e93057c	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.747	99	0
+5a3782c8b90efa3031a0c79b012253d0	Fungi	Ascomycota	Leotiomycetes	Helotiales		Chalara		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.584	86	0
+74632193070063bf75087973ec5df157	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.352	97	1
+b8e85365b7c3dd7c4c4d2ff398772dca	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Leucosporidiaceae	Leucosporidium			0	0	1
+00a8b61dc30f58756322459239e8da1e	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	81.250	100	1
+ecf7a6be5b17ebc267d713b52904e3c6	Fungi	Basidiomycota	Agaricomycetes	Cantharellales					0	0	0
+442e821e6eef35cb010136ba75bbcb5c	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	Saitozyma podzolica		0	0	1
+244f75f89cd004257e38092434bf0225	Fungi	Ascomycota						Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.189	99	1
+0092782ffe987341521dcf64a0b7a26b	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.328	99	0
+5c4bb9bf84e3e33e5dce16cd3a33d03a	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.597	99	1
+d3ce7f08e9afb43513fc128811f1e623	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	Hydnodontaceae	Luellia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	84.577	77	1
+66acc45f18db748202e947ef856567a1	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.667	77	1
+820f9516c2611f5fbdf7a0bc1053853b	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+c67309802648133e5f625b6804af962a	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha			0	0	1
+288ab319b8088d7224f049a53548249a	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.706	80	1
+62fcdd15baa889540b94db7b92f8dc9c	Fungi	Ascomycota	Leotiomycetes						0	0	0
+38406e4e4938004a24616e6cc7b8c989	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.238	88	0
+144f91c50ae741187f2605ceb680f32f	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.303	100	1
+ee36f0847d6b971166908fd46011dd6e	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	87.692	77	1
+757f91b23ee95728ba4403a356be85b1	Fungi	Ascomycota	Dothideomycetes	Venturiales	Venturiaceae	Venturia			0	0	1
+8905f9939138752d34339a6e8b17cf1b	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.771	98	0
+239a913a335adfa20347f23fdaebac1d	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.571	98	1
+9469128f83e1c68ae874a5e2e6c8af0c	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	91.480	87	0
+0d979f791ba9796efe703a58136ea3d1	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	1
+9f47f9a39e3e3cbd9127e115b4b88778	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis	Umbelopsis isabellina		0	0	1
+72913418488c6dcc52295b6d01da31c7	Fungi								0	0	0
+e4a9a164c595e65c1a633433f2d13135	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma			0	0	1
+16fc404bd5b16705ac164d019049b005	Fungi	Basidiomycota	Agaricomycetes	Trechisporales	Hydnodontaceae	Luellia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	84.848	77	1
+2a60ac6db2d5ba553840f1c5a3450a0e	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.532	86	1
+6e7fea12adab57a2645215a7af8a1810	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	79.924	100	1
+d99a35258f8047faa3bd9fa0e9c9bb2b	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma			0	0	1
+04024d99c5d76107307cdcdfb2689ff6	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+564b3e6007eab8bbffce70d28dfdb523	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+d27b8528fbbf788fee1a3beb64e6c4bb	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+01ae19bce762df6946b8ce87dc4f9993	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Meliniomyces		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.161	87	1
+e1e4a45fd7368b7b71f36c4b00910e42	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	83.122	92	1
+0579ac16ea671feba4434052b5f2c727	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae				0	0	0
+175d7ea2d40d2f7b454f0099d39ceba5	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+997813a1ba3655cfa12b4a1733fb1f04	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha			0	0	1
+01b2e50f1e6a9bcd41fd18b7e8762fa1	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.532	86	1
+695a46d5dbaa6a4027086d5e1fe1ceb3	Fungi	Ascomycota	Lecanoromycetes	Acarosporales	Acarosporaceae	Acarospora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.216	80	1
+b9ced5e48e4c460b3c8526d7eb4b063f	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	83.898	92	1
+bbb0f1445e63d285e798ace4972d3704	Fungi	Ascomycota	Leotiomycetes						0	0	0
+bb238166f35d011b8df9f81657d405a6	Fungi	Basidiomycota	Microbotryomycetes						0	0	1
+51659e0b374e4bb02da954910a05aacb	Fungi								0	0	0
+682d4e0131cbf9ebde22085727ba206a	Fungi								0	0	0
+d4c3c1f207623a4abb239c75ab8c4a8f	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+b78d5ca2012305c1cef71bbd19e9584e	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe	Inocybe striipes		0	0	1
+c2ee0b73ea3a1562849b7888133bfa35	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.670	80	1
+1e34c791a92fbabd140388d40f86a6fb	Fungi	Basidiomycota	Agaricomycetes						0	0	0
+37c3a5fd4ab15cd73009703d67128c34	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium			0	0	1
+5f130c64e0fe862c8bf3745a72d2caed	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	83.984	99	0
+503b4b7ef2ab330837501d8186234d76	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.659	99	1
+eb74edf3153412faecfbdf5dc3dcbbbd	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Strophariaceae	Pholiota			0	0	1
+44f3fd801ad0e31e3f1fb44fa90083a5	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.433	98	1
+f4bee241168fd73b0e99fef507dfcf96	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.095	97	1
+3f79a0d5292e0979f21399a36ec897b9	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.271	99	1
+f17234230be9b23a24ea02ed1d121bef	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe			0	0	1
+c433a0a8e4fceb264984319dc25cb940	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella			0	0	1
+ee6b2b561d42cf4f08bcd23f9b98b112	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Thelephora	Thelephora terrestris		0	0	1
+5613530b6d0b1e8f71e521367235a627	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.889	97	1
+fd74232352aff387fb137c39b67aab53	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe			0	0	1
+f980c701257eb4fd540174d009aa58e8	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Thelephora	Thelephora terrestris		0	0	1
+437d986225d3cf8e079b7b4866e337f3	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.325	78	1
+19150e909f2334f85e69485a00098a91	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Lactarius		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	85.646	82	1
+7d32f854e7ba42098a43a55436e1ccec	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.200	97	0
+970d044a51a4a20a6ad66987f7d95397	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.600	96	1
+2d7f745963c95c2cdc604194a0814d3d	Fungi	Basidiomycota	Agaricomycetes						0	0	0
+a38e3d0480a5c89e04a8e32f636c0f56	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Entoloma	Entoloma mirum		0	0	1
+e8f8e1d5bb185053d9ecfaaee5a3aea8	Fungi	Ascomycota	Leotiomycetes	Thelebolales	Pseudeurotiaceae	Leuconeurospora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.209	100	1
+4237c8b7108a782a1d2b93502c321035	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.425	96	0
+4dae1c0c9639623a420f9723b2d881cb	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Alatospora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.854	96	1
+269d74692652bf53ce544d76aca6980a	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	91.480	87	0
+c7ae2ef4bd08c3272990b35a335275d2	Fungi	Ascomycota	Leotiomycetes	Helotiales	Mollisiaceae	Phialocephala		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.583	77	1
+44b3fab9dfcc8e4c0574c8ebaca82600	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+12191f1a987eecd7b691c66b24f07f61	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.532	86	0
+2abeda0f5a7499c016f74874f2a79844	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.328	99	1
+0c56af9467af70710c23b7605a186804	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	1
+401d4eadc72cc31812770cd7ed03316e	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.000	97	0
+b4b4354f7c650010f2839ee56ba7bcfd	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+ad334ff319d4c7445fb97cbed53b0915	Fungi	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis	Umbelopsis isabellina		0	0	1
+d65e7f2fa982624d90ad526b32f7e17c	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hamatocanthoscyphaceae	Xenopolyscytalum		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.694	97	1
+84052a1447e4c1adb881cce6f71cad63	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Entolomataceae	Clitopilus			0	0	1
+67bf8c1e020753e4fb4b5fbb11c41d0f	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	89.691	77	1
+5801e719818780943623553d18f1b8b4	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+251a6e1417c88880991b100f11c4b39a	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.441	99	1
+e27f7e46796ea8a2b982ca45054cad19	Fungi	Basidiomycota	Agaricomycetes	Trechisporales					0	0	0
+ba2f90225b060edaae6e4d7b9f35f45d	Fungi	Basidiomycota	Agaricomycetes	Trechisporales					0	0	0
+432f7c5618455ca1a96a2881e042b1fe	Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae	Meliniomyces		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.778	87	1
+5d8c55c554ae1412c457209b0717cd9a	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+0ac93a8105a8ea39a0d20d35bc2ee867	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.714	99	1
+dc9a36e37abdf879306c29a4fa511019	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+07ab6c24ce736b8ec2a8810875781f60	Fungi	Ascomycota	Leotiomycetes						0	0	0
+adcd053092edecf520da5c6f8eb192f0	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.698	97	1
+35a02cb5b98b6ccd3ac52289e9e5665b	Fungi	Ascomycota						Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.745	79	1
+1e5d163aee766bc9011fdb4ff521b9d4	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+50ad07afbc0c37132560bb5cd6ca0be4	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.426	84	1
+6ecabbfefc55cac2ec403b5798773e0e	Fungi	Ascomycota	Eurotiomycetes	Sclerococcales					0	0	0
+e8945117b8baaa95138775366e590474	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.991	86	1
+0a4490a70641c65fd2ae767eea2d1f71	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Calycina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.128	86	1
+95b21982968edca6a559824f4046ac48	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae				0	0	0
+d02925c46b06b62134f8c3db0870a3eb	Fungi	Basidiomycota	Agaricomycetes	Russulales	Russulaceae	Russula	Russula violaceoincarnata		0	0	1
+a6a27e6260fe3d591a85635a2acc0a65	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Tricholomataceae	Tricholoma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	85.581	83	1
+1a9e538be309d62430c1ae7e658ce607	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.755	100	1
+aadcc6e544edbde13606e99a42ad15ff	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae	Clavulinopsis			0	0	1
+817e7f8b3bd3768ec15062b29a485b3e	Fungi	Basidiomycota	Geminibasidiomycetes	Geminibasidiales	Geminibasidiaceae	Geminibasidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.682	100	1
+ac917f1534c6829ca9d2c1b29903c7ea	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.944	97	0
+b36a3cc74e744826c76eedea6f716872	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus	Hygrophorus queletii		0	0	1
+a65327b4cbbd464f3f312c4a69b0e039	Fungi	Ascomycota	Eurotiomycetes	Sclerococcales					0	0	0
+6c7755a08061c5e0a92effd0bedc149e	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Odontia	Odontia fibrosa		0	0	1
+4f48e3e02bac1dc511c18700d6fcb6ea	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae	Cenococcum	Cenococcum geophilum		0	0	1
+7cefc772a16901ebe15059044415fe70	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.382	95	1
+1fa5e5419457673bca65a7262efe4ef6	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.843	99	0
+04a651fe4c31de722111fac57244e3bb	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.382	95	1
+d376e3eec33c4f77e6866d2b57ac6e53	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe	Inocybe fuscidula		0	0	1
+3b98d3bd67df51162d8561dbb8a1c629	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+1747cd089b09f32f410c05d053ab86ff	Fungi	Ascomycota	Leotiomycetes					Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	91.589	84	0
+f6bc82071c34842891b7957fa728accf	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella			0	0	1
+51a6b2078189407ed5126ad70d7cd3e1	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+11c57a1516312e6c4069d2d82062c154	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius caninus		0	0	1
+117ef350c0ac0d4a4c22b8b8aa017b7b	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	Saitozyma podzolica		0	0	1
+6f2e0c986ae6de0087daa542d5a3369f	Fungi	Ascomycota	Leotiomycetes	Helotiales	Leotiaceae	Pezoloma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.018	84	1
+23630a88f64691c6bd0864532a302ec2	Fungi	Ascomycota	Leotiomycetes	Helotiales	Calloriaceae	Polyphilus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.538	100	1
+d5a0ac55da5140d0acfaad21314aedb9	Fungi	Basidiomycota							0	0	0
+3e2eaf5448b5de6478b3012b33f9f6d5	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Hyaloscypha		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	87.597	99	1
+324b487c956d343888b4f2890e3b7962	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe			0	0	1
+17a8f27ed7d12ccfd0d4f3d2a715434d	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	87.179	77	1
+1b6691028bee2c81be67d22adb95977e	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+9f9535447aaa3758d50f400089508fc3	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrophorus	Hygrophorus queletii		0	0	1
+a18ba2f647428ed7b4b89f98d3ea7729	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae				0	0	1
+d1115e2a410a6cf4cddaf70a02fa0ac0	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Thelephora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	81.102	99	1
+288ec5d49adb5f92d416943652111a08	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Cuphophyllus	Cuphophyllus hygrocyboides		0	0	1
+4c321b35da091b71d1e9ea2e36067e31	Fungi	Ascomycota	Leotiomycetes	Helotiales	Mollisiaceae				0	0	1
+9ede7920a2d2330e5bff1ab15d59406c	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Cuphophyllus	Cuphophyllus hygrocyboides		0	0	1
+56eb125668b5ec382e1c19b99b775c7f	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae				0	0	1
+709b4637d44e8408dd26484eac23dd99	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Tomentella		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.153	99	1
+9e86f7e7d52181821e6a70efcee8bcb5	Fungi	Basidiomycota	Agaricomycetes						0	0	0
+2480cdbf3f6f97ed92d5e521819aeb31	Fungi	Basidiomycota	Agaricomycetes	Thelephorales	Thelephoraceae	Thelephora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.709	99	1
+feaf05fb39c0f5900e2a98b1164fcc1e	Fungi	Ascomycota	Leotiomycetes	Helotiales		Leohumicola		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.400	97	0
+fe79c60335539ad8a25a600b53c9ed11	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Sistotrema		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	81.273	100	1
+076ed410d1c78f64830f4fade0726d26	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Amanitaceae	Amanita			0	0	1
+4edd86dc40c96dd581ecf3a54f9d92ec	Fungi	Ascomycota	Geoglossomycetes	Geoglossales	Geoglossaceae	Sarcoleotia			0	0	1
+ab7ade03ccc947ac19549657021bd9c1	Fungi	Ascomycota	Geoglossomycetes	Geoglossales	Geoglossaceae	Hemileucoglossum			0	0	1
+f4c46aa8b6c03c3093b918935d7b0759	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+6aff9cc52db6af9ffdb01aeeefe7851c	Fungi	Ascomycota	Leotiomycetes	Helotiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	84.677	97	1
+1ed572a2e892ccb66038f231f5dde411	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius	Cortinarius xanthocephalus		0	0	1
+b191d1cd30268bdec558db974a1e65d1	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	82.258	94	1
+2c9da804298f63fcc6675ce18a0d5db9	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	82.609	97	1
+1d36af1881074e5407dfa564edfaf6e7	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrocybe			0	0	1
+1f368771b61e8db4e591777730bbd624	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Hygrocybe			0	0	1
+8f42b966e8551b3e47c6fe0cb5f3eaa6	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	82.996	94	1
+a5ef249b0c4b077b5382e0c957bd2cd0	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Cuphophyllus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.567	80	1
+802689f4e39b693fd343ee6da47b8c4c	Fungi	Basidiomycota	Agaricomycetes	Atheliales	Pilodermataceae	Piloderma		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	83.333	97	1
+040f1b2a8117382e4d216dd57cccfdd4	Fungi	Ascomycota	Dothideomycetes	Mytilinidales	Gloniaceae	Cenococcum	Cenococcum geophilum		0	0	1
+85e759a291b47faccd3e4c4bfc102ead	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+72c1fb6e5af13c5e7269e982158ff52d	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+18251d12b5305dba6474b10aed94835b	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Cladophialophora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.106	91	1
+4cbae4b53d1c480aaf13f1040997d893	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+3b8539a6bf11ffd3b24b8e9c52294bd8	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Sebacinaceae	Sebacina		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.525	97	1
+0893d480596e592fdf9f16b522eca6c8	Fungi	Ascomycota	Geoglossomycetes	Geoglossales	Geoglossaceae	Sarcoleotia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	85.845	87	1
+7192ba9304d3837a709902336b1d1bfc	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Hygrophoraceae	Cuphophyllus	Cuphophyllus virgineus	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.124	82	1
+0415dbc63b42225d7c4aed9af4425a51	Fungi	Basidiomycota	Agaricomycetes	Sebacinales	Serendipitaceae	Serendipita			0	0	1
+89d2c97e92e2edbd594749f88b64fc9a	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Cortinariaceae	Cortinarius			0	0	1
+a2d9102e78637a740694edf9d61c759d	Fungi								0	0	0
+327a731e1bef4bac7410c621bcac0d53	Fungi	Ascomycota	Leotiomycetes	Helotiales	Mollisiaceae				0	0	1
+1638261f992fd7359d701f91e9f445f2	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Clavariaceae	Clavulinopsis	Clavulinopsis corniculata		0	0	1
+24de91d9640e5ea4702009d4b20b28c0	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Hydnum		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	80.228	100	1
+daf771a63d1ca8171d9ca827987f6814	Fungi	Basidiomycota	Agaricomycetes	Cantharellales	Hydnaceae	Sistotrema			0	0	1
+8b51cb62963de6e0a89e90f91c7f81e2	Fungi	Chytridiomycota	Lobulomycetales						0	0	0
+d37e80a53116e5872df302296483c248	Fungi	Chytridiomycota							0	0	0
+4af4e66bdab0456e38abeb6297e46526	Fungi	Chytridiomycota							0	0	1
+3eb4c1773b4b23314ba6e79610cabc07	Fungi								0	0	0
+d6102dfa217e0c6cd9abf43d0171886a	Fungi								0	0	1
+aa4019e24dd084e4df9d6c2512dcc4e1	Fungi	Basidiomycota						Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.406	81	0
+5f5cb53009e18f854caff0afa8b8de27	Fungi								0	0	1
+0eafcef7151ddb681498153e9608ddce	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Xylodon		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.596	89	1
+9b9a3ced5cf4c65de6daa746e164b6ff	Fungi								0	0	1
+f19f54d5ec0a9aaadb4c81b37b70af89	Fungi								0	0	0
+f6619509cf1b8f3576edd9a74182f86e	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meripilaceae	Meripilus	Meripilus giganteus		0	0	1
+7a0f702b9d580f9aa1745c2e7668dbcc	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+96a0a33616be8f0f1029f38db8ee04a2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Didymella	Didymella glomerata	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	99.600	100	1
+6116a28da624d092b90f0743966f3dd1	Fungi								0	0	1
+71bc11609d16a180cdb7c5c85a38043e	Fungi	Basidiomycota	Microbotryomycetes						0	0	1
+19de5bd7f832bc3a101cb79d04b770c2	Fungi	Basidiomycota	Microbotryomycetes						0	0	0
+3ec098b973847e394b5f50416843f411	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Inocybaceae	Inocybe			0	0	1
+4f13c280a007ad5652b5f13bd1b6338a	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Atla		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	92.708	76	1
+ee3360a6e2f6fa1440a6f4fbda57f98c	Fungi	Chytridiomycota							0	0	0
+d26e159794f16ee8e4b3d4565e400e54	Fungi								0	0	0
+c4822e5180271c2768b5378dfaba425f	Fungi	Ascomycota	Dothideomycetes	Myriangiales				Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.747	98	0
+f6caaae2d5168a9e92da9f91b50cacc2	Fungi	Basidiomycota	Microbotryomycetes		Camptobasidiaceae				0	0	0
+def01937602ebfc27bf5043fdc5f7501	Fungi	Ascomycota	Dothideomycetes	Mycosphaerellales	Teratosphaeriaceae	Hortaea	Hortaea werneckii	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	94.273	91	1
+f773b0401910fdce41be1c26a97846b8	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Xylodon	Xylodon flaviporus	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	87.665	89	1
+7052dd70c521146414667211dd952470	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium herbarum	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	100.000	100	1
+8fd84754409751c74bb59974cc73f499	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Meruliaceae	Phlebia	Phlebia rufa	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	90.308	90	1
+d018918120498695931974012b4399bf	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Ustilaginomycotina	88.732	84	0
+143538e6222f1bc7e6b69c46bd79b654	Fungi	Ascomycota	Leotiomycetes	Helotiales					0	0	0
+05c7718f5b45246e2836f803123a2082	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Leucosporidiaceae	Leucosporidium			0	0	1
+6796801bf910f6a7d4750bfadfcecb01	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia arunalokei		0	0	1
+d98a88a146614c63a816edeff0d48bc0	Fungi								0	0	0
+b087d00bb12f630a45fd6060254a611b	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Hyphodontia	Hyphodontia floccosa	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	86.864	94	1
+02a8438e0f17c1e919606e8b3d863cff	Fungi	Ascomycota	Dothideomycetes	Dothideales	Dothioraceae	Dothiora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	98.800	100	1
+76617aa404f93754ed4c5384a2c3a6ca	Fungi	Basidiomycota	Agaricomycetes	Polyporales					0	0	0
+fb88aa225fdd7211c98e65d34f90cb2e	Fungi	Basidiomycota	Tremellomycetes						0	0	0
+41e4b7066fda42beb94b813b6f1f9fe0	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	89.558	99	1
+cbc50ba11dcaa3458f1b1572a2736fcc	Fungi	Ascomycota							0	0	0
+eaa3f5ceaa080f4236ebb54d55ba7980	Fungi	Basidiomycota	Microbotryomycetes		Camptobasidiaceae	Cryolevonia	Cryolevonia giraudoae		0	0	0
+c295e95ac2c4b92ee8c4fc9b00671999	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Atla		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	86.873	99	1
+4f97bd1cf78ee554d01a0fc642dcb0c2	Fungi	Chytridiomycota							0	0	1
+595c83812e50a346d727c5b90404dbc2	Fungi	Chytridiomycota	Rhizophydiomycetes	Rhizophydiales					0	0	0
+ef4b828b3dbadb12a944999863fd27a1	Fungi	Chytridiomycota	Rhizophydiomycetes	Rhizophydiales					0	0	0
+0fa4823d2d584a0336d3d88e5468e72f	Fungi	Chytridiomycota							0	0	0
+22191d3a0deca3f865fa1acb75eaab79	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales					0	0	1
+c8eeeb23e8552b30fb6329bb34c7d7c5	Fungi	Chytridiomycota	Cladochytriomycetes	Cladochytriales					0	0	1
+d801f55313671200f0add0983711d8f7	Fungi	Chytridiomycota	Rhizophlyctidomycetes	Rhizophlyctidales	Rhizophlyctidaceae				0	0	0
+13b5a28a0c52fbdb39154b859e7da36f	Fungi								0	0	0
+abe9acdd8b3a45e2d960c8757b020b85	Fungi								0	0	1
+f289e70771273b8220b1987162fe8d45	Fungi	Basidiomycota	Microbotryomycetes						0	0	0
+4386afa340b2a4a7c16794314d80502a	Fungi	Basidiomycota	Microbotryomycetes		Camptobasidiaceae				0	0	0
+9a0c4e695633a190b5a5e4f09a7ba8e1	Fungi	Chytridiomycota	Rhizophydiomycetes	Rhizophydiales					0	0	0
+4d70348e275b44c42638c59e850df0c7	Fungi								0	0	1
+28dd0f667d629784fc258773b5feae23	Fungi	Rozellomycota							0	0	0
+355b228391f04d6ebad3640689b6872d	Fungi	Ascomycota	Eurotiomycetes	Verrucariales	Verrucariaceae	Verrucaria	Verrucaria alpicola		0	0	1
+825c9f751fe3d8f2294dd322e6099f85	Fungi								0	0	1
+c908a5bb2f9b6548ed2df620a8e844b2	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae	Malassezia	Malassezia restricta		0	0	1
+8cb1d70be48743d83b259f1bd58f5f3c	Fungi	Chytridiomycota							0	0	1
+1c4e68421427e760f952e63cbc94e171	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Lecanicillium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	94.800	100	1
+e8b02a366855f0a23c57f4b17f8c07ba	Fungi	Chytridiomycota							0	0	0
+0e921c1021f1fe45475830b941e30da6	Fungi	Monoblepharomycota							0	0	0
+8ad5092b233051a09e01fddb758b0c45	Fungi	Monoblepharomycota							0	0	0
+2a7734a847d27541bf3722dc7fbaf6f2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Didymella	Didymella glomerata	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	99.200	100	1
+98ecd08d8811c1a40b1d98bb91744c27	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Comoclathris		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	93.388	93	1
+94a8471802ed3e99697aeb1839f0a0a2	Fungi	Rozellomycota							0	0	0
+2e513e67daf375ad5ff02ec7e80071c7	Fungi	Ascomycota							0	0	0
+4df4caf5da69648e5b188a1abcbed9b1	Fungi	Ascomycota							0	0	0
+f6116edf706b510b7eb4f368de21a9b0	Fungi	Basidiomycota	Tremellomycetes						0	0	0
+2a8992bfc3bc8e45fc0d0ebc689ba6b9	Fungi	Basidiomycota	Malasseziomycetes	Malasseziales	Malasseziaceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Ustilaginomycotina	88.732	84	0
+df25c4b24c6352926e33f9162b5730cc	Fungi	Basidiomycota	Microbotryomycetes						0	0	1
+6af8241ff56916c5764519679e283643	Fungi	Basidiomycota						Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.406	81	0
+11ed7607584c7bc36f791d342c96324e	Fungi	Chytridiomycota							0	0	0
+c8a01ace03fcafd534003c5d51f5b42c	Fungi	Chytridiomycota							0	0	0
+39616e9f33178697168b075b5ece664c	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Leucosporidiaceae	Leucosporidium			0	0	1
+36f9395df132d16bc70dea5617d7ec19	Fungi	Basidiomycota						Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	88.500	78	0
+4b2d774a1b23f8a9415a9b23e9325d92	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+f07f8cb854a905cce53449a38ef436e1	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+e6d9c99302660b46540e5bc9e55e211a	Fungi	Basidiomycota	Microbotryomycetes						0	0	0
+f07ca50ff8af86590b05639ee43cff4a	Fungi	Basidiomycota							0	0	0
+4a3a31460c0e3ed6109cf8ac35ec99c3	Fungi	Ascomycota	Leotiomycetes	Helotiales	Hyaloscyphaceae	Lachnellula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina	88.115	96	1
+393b623559ffa32352b1793b26562b43	Fungi	Basidiomycota	Agaricomycetes	Hymenochaetales	Schizoporaceae	Xylodon	Xylodon flaviporus	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	87.336	86	1
+5b077bb8a1c2724c7d57a8302ec31d14	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+127876e16905208c608c03786c974675	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+8403c9af96c7ae82637a2fffc9219f57	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+1287fda3bfc09cf2c90e2ee51932e01f	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+bf94312fadc8867c58f38aba966d8566	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+8a86331a920e07b2d2b8585226a2272f	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+a99ce36ae35d6ae7ad3939bbe4a0d7b5	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+44168612458325c2704a74503b2a3ffc	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+cbadeaaaedb175bb12cdb902d530ec37	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+6ec5d0ed9d502c38046523e2c3688581	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+5a210ec91cde45a121b66a7e3c11ff97	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+0512e0039d9aeb09ed2cde5cbdaf4db2	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+6e288f44a5746f501e9c937802ea823b	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+84d52f129493a9599244f44f3339b6c8	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+76ad3c4c2e871063a7a3d823143364e0	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+dadad9cfed9ddd0db7863982ec87af6a	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+8bf441345b8f28a3c90badb9a6becc43	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+65af5b0d4c6124a384187a1b9a7d0459	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+e569768f4b8cd5b588053fe3bc355a84	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1
+2acf00c7689c6c17ebeabb59d3629052	Fungi	Basidiomycota	Microbotryomycetes	Kriegeriales	Kriegeriaceae	Phenoliferia			0	0	1

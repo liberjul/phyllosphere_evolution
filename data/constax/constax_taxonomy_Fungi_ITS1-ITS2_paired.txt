@@ -1,0 +1,75 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	High_level_taxonomy	HL_hit_percent_id	HL_hit_query_cover	Consistent_hierarchy
+6137af9009c34940a574b54aa47e36e3	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Tuberaceae_1	Tuber_1			0	0	0
+bf70f36b1fdaa810d34eec422b1ea8e7	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1			0	0	0
+6e0aad40eef826caa9ff007f65f7ceb1	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1	Solicoccozyma terricola 		0	0	0
+79ef15ce964d8a59543ffc2f0793ab94	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Trichosporonaceae_1	Apiotrichum_1			0	0	0
+493e63a8440d1c7d7c283909fb555d47	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Trichosporonaceae_1	Apiotrichum_1			0	0	0
+93ed84c01857503f79c501fc3e5472e9	Fungi_1	Rozellomycota_1		Branch02_1					0	0	0
+48a36e0ada23dadb0e87985d3ee4c67e	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Trichosporonaceae_1	Apiotrichum_1			0	0	0
+6b05ecc7a4d2f598e2a66c5e3e07b17d	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1					0	0	0
+5c7709c9b6596231fcbfffb65c7a9f26	Fungi_1	Basidiomycota_1	Cystobasidiomycetes_1	Erythrobasidiales_1		Sakaguchia_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	81.900	85	0
+787c864c97299c15b49038674e167d8c	Fungi_1	Rozellomycota_1		Gs08_1					0	0	0
+c9f3752a99b0da6f243a4ff0f1d187ce	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Cystofilobasidiaceae_1	Cystofilobasidium_1	Cystofilobasidium capitatum 		0	0	0
+d34216a641d0b14179ceddc2bf7f4827	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	85.992	100	0
+3429140f838244695927ae830b6064ae	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	88.646	89	0
+6a941b65f18a2e2cc7f7f1f6266653bf	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1	Solicoccozyma terricola 		0	0	0
+82ea2c5accac9f7255b79318fec32010	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Cystofilobasidiales_1	Cystofilobasidiaceae_1	Cystofilobasidium_1	Cystofilobasidium capitatum 		0	0	0
+30bbdbdeb8a7e061f9eeb82565aff900	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Lipomycetaceae_1	Lipomyces_1			0	0	0
+8a7252933b8d23eb9ecc69b5405224f0	Fungi_1	Ascomycota_1							0	0	0
+bf28b712fda1d8bb9b328eb3f275a6ae	Fungi_1	Ascomycota_1							0	0	0
+172975c7a4fcc0bbfca4ec1da39ddcdc	Fungi_1	Basidiomycota_1	Agaricostilbomycetes_1	Agaricostilbales_1	Chionosphaeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	79.537	100	0
+d353aadf0b54ad8275b5dc1cf906e634	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+bc88391de55509534c6fbccadfdc26a8	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus brasilianum 		0	0	0
+35e9e187158f67d94734362975cb1613	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus tetrastratosum 	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	83.462	100	0
+b0b199cef944eb32acb764cbc3a03f97	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Tuberaceae_1	Tuber_1			0	0	0
+4f253bf1ab626974e198a114e28ce8f3	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1	Trimorphomycetaceae_1	Saitozyma_1			0	0	0
+ad725b2be7cef75700ff7c4d60f28c3f	Fungi_1	Ascomycota_1	Eurotiomycetes_1	Chaetothyriales_1	Cyphellophoraceae_1	Anthopsis_1			0	0	0
+ed5137f1c51a859554bb81f66d789774	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Sporidiobolales_1	Sporidiobolaceae_1	Rhodotorula_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	83.333	85	0
+f16f40ee35cbb5fc1c2141c32d5382db	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.597	100	0
+533ae406a5914bf95b9227e5fc4307b9	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1	Glomus tetrastratosum 	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	84.030	100	0
+1a349eae5b409a4713963c0385fe37b1	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	84.231	99	0
+eaae828e759bf5e03b497a0a8d98be2f	Fungi_1	Ascomycota_1	Pezizomycetes_1	Pezizales_1	Tuberaceae_1	Tuber_1			0	0	0
+0f55a85603b41ea31b2cc9189d69cef6	Fungi_1	Mortierellomycota_1	Mortierellomycetes_1	Mortierellales_1	Mortierellaceae_1	Mortierella_1			0	0	0
+bc1b7784ddcdbf5918bdae7d78244270	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Tremellales_1					0	0	0
+1acb4311403c9ad2b962a4742b74d075	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1	Glomus_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	89.147	100	0
+f8336758d1d00f85b33241ce369fde9f	Fungi_1	Rozellomycota_1		Gs07_1					0	0	0
+1fcad0b5be103c37ad36f6f07b829b8a	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.259	100	0
+086eb4ac3bbf26ddada8302de36f4e6f	Fungi_1	Ascomycota_1							0	0	0
+cbb4b46e6bfe9922930082f363ee1ef6	Fungi_1	Ascomycota_1							0	0	0
+173e7aaa64407d141baba471ce76c45d	Fungi_1	Basidiomycota_1	Dacrymycetes_1	Dacrymycetales_1	Dacrymycetaceae_1	Calocera_1			0	0	0
+1ab8812b600d0baf7b1844bef20b2a74	Fungi_1	Glomeromycota_1	Paraglomeromycetes_1	Paraglomerales_1	Paraglomeraceae_1	Paraglomus_1	Paraglomus brasilianum 		0	0	0
+1414cc5818af573d24acba1a9e3001e8	Fungi_1	Rozellomycota_1		Gs08_1					0	0	0
+53619d620842a2864af7ff06d4f00149	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Tetragoniomycetaceae_1				0	0	0
+a6825fd5d73b7f2c052f392767c45bf4	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1					0	0	0
+9aec5f77214efee54cdcba1279e76944	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+0a05980c286ff68d02f79e40e74141f1	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+a21eaf7605ff622af17a9116f669ee70	Fungi_1	Ascomycota_1							0	0	0
+a380b072c7eb925d4a396db6bff8448d	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+4af3cd48354f97bfdc963a36cab1b840	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Trichosporonales_1	Trichosporonaceae_1	Cutaneotrichosporon_1			0	0	0
+e735581c988c050ba93f94489a989702	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+009cc26050fa31769636dac76ce5a010	Fungi_1	Basidiomycota_1	Microbotryomycetes_1		Chrysozymaceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	80.478	96	0
+8613616d2103c2d5c07f9e81aa7f9b05	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+462b1a20ea1a27dfc2569729584f9a99	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+7d7a9f609146d5b325b7842d75afc7ac	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.508	100	0
+26520dc7ffb99c31880594af1497fb8a	Fungi_1								0	0	0
+ec20d39cc2e2cf6b2acd6550695cf364	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Acaulosporaceae_1	Acaulospora_1	Acaulospora lacunosa 	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	81.102	100	0
+52751404df09a7ec8a6f17ba95ade0fc	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.508	100	0
+47958f6a43687dc82107d301343319ce	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	88.235	100	0
+eb85f46ad00a2c3e1f4a499f270e4b52	Fungi_1	Ascomycota_1	Saccharomycetes_1	Saccharomycetales_1	Dipodascaceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina	79.554	99	0
+f8ccb13d4f0efcb237637aa74edfc5e0	Fungi_1	Ascomycota_1							0	0	0
+42fa725a1dd353a530fde95d2aeb72c7	Fungi_1	Basidiomycota_1	Tremellomycetes_1	Filobasidiales_1	Piskurozymaceae_1	Solicoccozyma_1			0	0	0
+74dfc4e4114238f21a017f2665223709	Fungi_1	Ascomycota_1	Archaeorhizomycetes_1	Archaeorhizomycetales_1	Archaeorhizomycetaceae_1	Archaeorhizomyces_1			0	0	0
+a351ee3497354103ab039285fcb2eeb5	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+834b29e0e896734b6419143a0f55f901	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+972c9a9ac288067300c4a684998a76da	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+5d4f61558d03d2188c7e7f4e96a6028b	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+703e4a8662a88e8b838ab5d3ded0215a	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+b610e50f3fae63f204461ebe6ab089da	Fungi_1	Glomeromycota_1	Archaeosporomycetes_1	Archaeosporales_1	Archaeosporaceae_1				0	0	0
+4fc53a1a074e69447910b9029308ef2c	Fungi_1	Basidiomycota_1	Microbotryomycetes_1	Leucosporidiales_1	Leucosporidiaceae_1	Leucosporidium_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	85.772	96	0
+a50cb737f9569bc3021078f50ca48e95	Fungi_1	Basidiomycota_1							0	0	0
+7f18d4044fa74e7b9da42a29b4854a4f	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.072	100	0
+8ade9fc894ad383f7512d362c747b956	Fungi_1	Basidiomycota_1							0	0	0
+bc8fb19d5daf9c916ed1273d7459e5f5	Fungi_1	Ascomycota_1							0	0	0
+0a4de8e0d3fb068857e2a26a770f7622	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Diversisporales_1	Diversisporaceae_1	Diversispora_1		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	83.462	100	0
+c3d2446b7237d8992380efab239aa321	Fungi_1	Glomeromycota_1	Glomeromycetes_1	Glomerales_1	Glomeraceae_1			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.590	100	0
+44f31a802c52546f93009dc2344450aa	Fungi_1	Basidiobolomycota_1							0	0	0

@@ -26,7 +26,7 @@ for bioproj in srr_dict:
             print(F"{sam_acc[0]} is not in cleaned list")
         else:
             sam_acc = sam_acc[0]
-            srr_acc = tab_spl[-2] #[x for x in tab_spl if "RR" in x]
+            srr_acc = tab_spl[-2].split(".")[0] #[x for x in tab_spl if "RR" in x]
             alias = tab_spl[-1]
             files = [x for x in tab_spl if "." in x]
             if len(files) == 1:

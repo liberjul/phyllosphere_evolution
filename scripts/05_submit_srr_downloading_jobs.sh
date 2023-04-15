@@ -8,5 +8,5 @@ do
   sed "s/<target>/$TARGET/" download_sra_files_job.sb > download_sra_files_job_"$TARGET"_"$REGION"_"$LAYOUT".sb
   sed -i "s/<region>/$REGION/" download_sra_files_job_"$TARGET"_"$REGION"_"$LAYOUT".sb
   sed -i "s/<layout>/$LAYOUT/" download_sra_files_job_"$TARGET"_"$REGION"_"$LAYOUT".sb
-  sbatch download_sra_files_job_"$TARGET"_"$REGION".sb
+  sbatch download_sra_files_job_"$TARGET"_"$REGION"_"$LAYOUT".sb
 done < ../data/metadata/srr_targets_regions.txt

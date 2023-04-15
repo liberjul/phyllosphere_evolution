@@ -1,0 +1,67 @@
+#!/bin/bash --login
+########## Define Resources Needed with SBATCH Lines ##########
+
+#SBATCH --time=10:00:00             # limit of wall clock time - how long the job will run (same as -t)
+#SBATCH --ntasks=1                 # number of tasks - how many tasks (nodes) that you require (same as -n)
+#SBATCH --cpus-per-task=20          # number of CPUs (or cores) per task (same as -c)
+#SBATCH --mem=32G                   # memory required per node - amount of memory (in bytes)
+#SBATCH --job-name=constax_all_nonphyllo       # you can give your job a name for easier identification (same as -J)
+#SBATCH --output=%x-%j.SLURMout
+#SBATCH --partition=scavenger
+
+########## Command Lines to Run ##########
+
+conda activate constax
+
+# cd ~/He_Lab/phyllosphere_meta-analysis/scripts
+# Below 2 are for MSU HPCC
+FP=~/He_Lab/phyllosphere_meta-analysis/SRA_files
+QFP=~/He_Lab/phyllosphere_meta-analysis/Qiime2_files
+
+# Below 2 are for DCC
+# FP=/hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files
+# QFP=/hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/Qiime2_files
+# mkdir -p $FP/../constax $FP/../otu_tables
+
+# for REG in ITS1_paired
+# do
+#   i=Fungi_$REG
+#   mkdir -p $FP/../taxonomy_custom/tax_$i $FP/../taxonomy_custom/out_$i
+#   constax -c 0.8 \
+#     -b -t -i $QFP/exported_feature_table/rep-seqs_1_"$i"/dna-sequences.fasta \
+#     -n $SLURM_CPUS_PER_TASK \
+#     -d /mnt/ufs18/rs-022/bonito_lab/CONSTAX_May2020/UNITE_Fungi_tf/2022_11_29_UNITE_RefS/sh_general_release_dynamic_29.11.2022_mod.fasta \
+#     -f /mnt/ufs18/rs-022/bonito_lab/CONSTAX_May2020/UNITE_Fungi_tf/2022_11_29_UNITE_RefS --mem $SLURM_MEM_PER_NODE -m 5 \
+#     -x $FP/../taxonomy_custom/tax_$i \
+#     -o $FP/../taxonomy_custom/out_$i \
+#     --high_level_db /mnt/ufs18/home-026/liberjul/Bonito_Lab/constax/test_new/SILVA138_NR_blastdb/SILVA138_NRdb.fasta \
+#     --sintax_path /mnt/research/rdp/public/thirdParty/usearch10.0.240_i86linux64 \
+#     --consistent
+#
+#   cp $FP/../taxonomy_custom/out_$i/constax_taxonomy.txt $FP/../constax/constax_customdb_taxonomy_$i.txt
+#   # cp $QFP/exported_feature_table/table_1_$i/feature-table.biom $FP/../otu_tables/feature-table_$i.biom
+#   # ls -lh $FP/$i/*.gz > $FP/../metadata/fnames_$i.txt
+# done
+
+for REG in ITS2_pe ITS1-ITS2_pe ITS1_se ITS2_se ITS1-ITS2_se ITS2_paired ITS1-ITS2_paired ITS2_single #ITS1_pe
+do
+  i=Fungi_$REG
+  mkdir -p $FP/../taxonomy_custom/tax_$i $FP/../taxonomy_custom/out_$i
+  constax -c 0.8 \
+    -b -i $QFP/exported_feature_table/rep-seqs_1_"$i"/dna-sequences.fasta \
+    -n $SLURM_CPUS_PER_TASK \
+    -d /mnt/ufs18/rs-022/bonito_lab/CONSTAX_May2020/UNITE_Fungi_tf/2022_11_29_UNITE_RefS/sh_general_release_dynamic_29.11.2022_mod.fasta \
+    -f /mnt/ufs18/rs-022/bonito_lab/CONSTAX_May2020/UNITE_Fungi_tf/2022_11_29_UNITE_RefS --mem $SLURM_MEM_PER_NODE -m 5 \
+    -x $FP/../taxonomy_custom/tax_$i \
+    -o $FP/../taxonomy_custom/out_$i \
+    --high_level_db /mnt/ufs18/home-026/liberjul/Bonito_Lab/constax/test_new/SILVA138_NR_blastdb/SILVA138_NRdb.fasta \
+    --sintax_path /mnt/research/rdp/public/thirdParty/usearch10.0.240_i86linux64 \
+    --consistent
+
+  cp $FP/../taxonomy_custom/out_$i/constax_taxonomy.txt $FP/../constax/constax_customdb_taxonomy_$i.txt
+  # cp $QFP/exported_feature_table/table_1_$i/feature-table.biom $FP/../otu_tables/feature-table_$i.biom
+  # ls -lh $FP/$i/*.gz > $FP/../metadata/fnames_$i.txt
+done
+conda deactivate
+
+scontrol show job $SLURM_JOB_ID     ### write job information to output file

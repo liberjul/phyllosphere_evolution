@@ -1,0 +1,12 @@
+-rw-rw----. 1 jal138 bio556l-s23 1.7M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0010_SRR12401455_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 1.8M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0010_SRR12401455_L001_R2_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 3.9M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0011_SRR12401458_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 4.1M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0011_SRR12401458_L001_R2_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.6M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0012_SRR12401459_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.7M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0012_SRR12401459_L001_R2_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 3.0M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0013_SRR12401471_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 3.1M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0013_SRR12401471_L001_R2_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.4M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0014_SRR12401477_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.4M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0014_SRR12401477_L001_R2_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.2M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0015_SRR12401478_L001_R1_001.fastq.gz
+-rw-rw----. 1 jal138 bio556l-s23 2.2M Apr  9 07:48 /hpc/group/bio556l-s23/jal138/phyllosphere_evolution/data/SRA_files/Fungi_ITS1_paired/JL0015_SRR12401478_L001_R2_001.fastq.gz

@@ -1,0 +1,75 @@
+OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	High_level_taxonomy	HL_hit_percent_id	HL_hit_query_cover	Consistent_hierarchy
+6137af9009c34940a574b54aa47e36e3	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber			0	0	1
+bf70f36b1fdaa810d34eec422b1ea8e7	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	Saitozyma podzolica		0	0	1
+6e0aad40eef826caa9ff007f65f7ceb1	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma			0	0	1
+79ef15ce964d8a59543ffc2f0793ab94	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum	Apiotrichum xylopini		0	0	1
+493e63a8440d1c7d7c283909fb555d47	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum			0	0	1
+93ed84c01857503f79c501fc3e5472e9	Fungi	Rozellomycota		Branch02					0	0	0
+48a36e0ada23dadb0e87985d3ee4c67e	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Apiotrichum			0	0	1
+6b05ecc7a4d2f598e2a66c5e3e07b17d	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella			0	0	1
+5c7709c9b6596231fcbfffb65c7a9f26	Fungi	Basidiomycota	Cystobasidiomycetes	Sakaguchiales	Sakaguchiaceae	Sakaguchia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	81.900	85	1
+787c864c97299c15b49038674e167d8c	Fungi	Rozellomycota		Gs08					0	0	0
+c9f3752a99b0da6f243a4ff0f1d187ce	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium			0	0	1
+d34216a641d0b14179ceddc2bf7f4827	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Dominikia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	85.992	100	1
+3429140f838244695927ae830b6064ae	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Leucosporidiaceae	Leucosporidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	88.646	89	1
+6a941b65f18a2e2cc7f7f1f6266653bf	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma			0	0	1
+82ea2c5accac9f7255b79318fec32010	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium			0	0	1
+30bbdbdeb8a7e061f9eeb82565aff900	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Lipomycetaceae	Lipomyces			0	0	1
+8a7252933b8d23eb9ecc69b5405224f0	Fungi	Ascomycota							0	0	0
+bf28b712fda1d8bb9b328eb3f275a6ae	Fungi	Ascomycota							0	0	0
+172975c7a4fcc0bbfca4ec1da39ddcdc	Fungi	Basidiomycota	Agaricostilbomycetes	Agaricostilbales	Chionosphaeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	79.537	100	0
+d353aadf0b54ad8275b5dc1cf906e634	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+bc88391de55509534c6fbccadfdc26a8	Fungi	Glomeromycota	Paraglomeromycetes	Paraglomerales	Paraglomeraceae	Paraglomus	Paraglomus brasilianum		0	0	1
+35e9e187158f67d94734362975cb1613	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	83.462	100	1
+b0b199cef944eb32acb764cbc3a03f97	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber			0	0	1
+4f253bf1ab626974e198a114e28ce8f3	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma	Saitozyma podzolica		0	0	1
+ad725b2be7cef75700ff7c4d60f28c3f	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Cyphellophoraceae	Anthopsis			0	0	1
+ed5137f1c51a859554bb81f66d789774	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	83.333	85	1
+f16f40ee35cbb5fc1c2141c32d5382db	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Dominikia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.597	100	1
+533ae406a5914bf95b9227e5fc4307b9	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	84.030	100	1
+1a349eae5b409a4713963c0385fe37b1	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Glomus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	84.231	99	1
+eaae828e759bf5e03b497a0a8d98be2f	Fungi	Ascomycota	Pezizomycetes	Pezizales	Tuberaceae	Tuber			0	0	1
+0f55a85603b41ea31b2cc9189d69cef6	Fungi	Mortierellomycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Mortierella			0	0	1
+bc1b7784ddcdbf5918bdae7d78244270	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trimorphomycetaceae	Saitozyma			0	0	1
+1acb4311403c9ad2b962a4742b74d075	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae	Microdominikia		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	89.147	100	1
+f8336758d1d00f85b33241ce369fde9f	Fungi	Rozellomycota		Gs07					0	0	0
+1fcad0b5be103c37ad36f6f07b829b8a	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.259	100	0
+086eb4ac3bbf26ddada8302de36f4e6f	Fungi	Ascomycota							0	0	0
+cbb4b46e6bfe9922930082f363ee1ef6	Fungi	Ascomycota							0	0	0
+173e7aaa64407d141baba471ce76c45d	Fungi	Basidiomycota	Dacrymycetes	Dacrymycetales	Dacrymycetaceae				0	0	1
+1ab8812b600d0baf7b1844bef20b2a74	Fungi	Glomeromycota	Paraglomeromycetes	Paraglomerales	Paraglomeraceae	Paraglomus	Paraglomus brasilianum		0	0	1
+1414cc5818af573d24acba1a9e3001e8	Fungi	Rozellomycota		Gs08					0	0	0
+53619d620842a2864af7ff06d4f00149	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Tetragoniomycetaceae				0	0	0
+a6825fd5d73b7f2c052f392767c45bf4	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Tetragoniomycetaceae				0	0	0
+9aec5f77214efee54cdcba1279e76944	Fungi	Ascomycota	Archaeorhizomycetes						0	0	0
+0a05980c286ff68d02f79e40e74141f1	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+a21eaf7605ff622af17a9116f669ee70	Fungi	Ascomycota	Leotiomycetes	Thelebolales					0	0	0
+a380b072c7eb925d4a396db6bff8448d	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+4af3cd48354f97bfdc963a36cab1b840	Fungi	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Cutaneotrichosporon			0	0	1
+e735581c988c050ba93f94489a989702	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+009cc26050fa31769636dac76ce5a010	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	80.478	96	1
+8613616d2103c2d5c07f9e81aa7f9b05	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+462b1a20ea1a27dfc2569729584f9a99	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+7d7a9f609146d5b325b7842d75afc7ac	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.508	100	0
+26520dc7ffb99c31880594af1497fb8a	Fungi								0	0	0
+ec20d39cc2e2cf6b2acd6550695cf364	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Acaulosporaceae	Acaulospora	Acaulospora lacunosa	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Agaricomycotina	81.102	100	1
+52751404df09a7ec8a6f17ba95ade0fc	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.508	100	0
+47958f6a43687dc82107d301343319ce	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	88.235	100	0
+eb85f46ad00a2c3e1f4a499f270e4b52	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Dipodascus		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Saccharomycotina	79.554	99	1
+f8ccb13d4f0efcb237637aa74edfc5e0	Fungi	Ascomycota							0	0	0
+42fa725a1dd353a530fde95d2aeb72c7	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Piskurozymaceae	Solicoccozyma			0	0	1
+74dfc4e4114238f21a017f2665223709	Fungi	Ascomycota	Archaeorhizomycetes	Archaeorhizomycetales	Archaeorhizomycetaceae	Archaeorhizomyces			0	0	1
+a351ee3497354103ab039285fcb2eeb5	Fungi	Glomeromycota							0	0	0
+834b29e0e896734b6419143a0f55f901	Fungi	Glomeromycota							0	0	1
+972c9a9ac288067300c4a684998a76da	Fungi	Glomeromycota	Archaeosporomycetes	Archaeosporales	Archaeosporaceae	Archaeospora			0	0	1
+5d4f61558d03d2188c7e7f4e96a6028b	Fungi	Glomeromycota							0	0	1
+703e4a8662a88e8b838ab5d3ded0215a	Fungi	Glomeromycota							0	0	1
+b610e50f3fae63f204461ebe6ab089da	Fungi	Glomeromycota							0	0	1
+4fc53a1a074e69447910b9029308ef2c	Fungi	Basidiomycota	Microbotryomycetes	Microbotryales	Leucosporidiaceae	Leucosporidium		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Dikarya;Basidiomycota;Pucciniomycotina	85.772	96	1
+a50cb737f9569bc3021078f50ca48e95	Fungi	Basidiomycota							0	0	1
+7f18d4044fa74e7b9da42a29b4854a4f	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	87.072	100	0
+8ade9fc894ad383f7512d362c747b956	Fungi	Basidiomycota							0	0	1
+bc8fb19d5daf9c916ed1273d7459e5f5	Fungi	Ascomycota							0	0	0
+0a4de8e0d3fb068857e2a26a770f7622	Fungi	Glomeromycota	Glomeromycetes	Diversisporales	Diversisporaceae	Diversispora		Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	83.462	100	1
+c3d2446b7237d8992380efab239aa321	Fungi	Glomeromycota	Glomeromycetes	Glomerales	Glomeraceae			Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Mucoromycota;Glomeromycotina;Glomeromycetes	86.590	100	0
+44f31a802c52546f93009dc2344450aa	Fungi	Basidiobolomycota							0	0	0
