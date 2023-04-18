@@ -4,7 +4,7 @@ library(tidyr)
 library(tibble)
 library(dplyr)
 library(stringr)
-library(DESeq2)
+# library(DESeq2)
 library(MASS)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
@@ -14,6 +14,10 @@ srr_dat_non <- read.delim("../data/metadata/srr_accessions_with_metadata_nonphyl
   dplyr::rename(SRR_acc=X)
 srr_dat_phy <- read.delim("../data/metadata/phyllo/srr_with_host_taxonomy.txt",
                       stringsAsFactors = F)
+
+length(unique(srr_dat_non$BioProject))
+length(unique(srr_dat_phy$BioProject))
+
 
 import_reads_tax<- function(target, region, layout, srr_dat, x = 0, split=NA, np=F, prop=F, rank=NA, phyllo=FALSE){
   if (phyllo){
@@ -88,6 +92,8 @@ import_reads_tax<- function(target, region, layout, srr_dat, x = 0, split=NA, np
       # print(sub_taxa_counts)
       taxa_counts <- full_join(taxa_counts, sub_taxa_counts)
     }
+    print(read.biom(biom_path)$counts %>%
+            as.matrix(.) %>% sum(.))
     return(taxa_counts)
 
       # pivot_longer(cols = starts_with("JL"),
@@ -114,6 +120,7 @@ phy_fungi_wide <- full_join(fungi_its1.its2_wide_pe, fungi_its1_wide_pe) %>%
   group_by(taxon) %>%
   summarise(across(starts_with("JL"), ~ sum(.x, na.rm = T)))
 
+phy_fungi_wide
 samcount_phy <- phy_fungi_wide %>%
   colnames(.) %>%
   str_detect("JL") %>%
@@ -220,7 +227,23 @@ for (i in 2:dim(cts)[1]){
 res
 res %>%
   ggplot(aes(x = log2fold)) +
-  geom_histogram()
+  geom_histogram()-> g
+g
+ggsave("../figures/log2fold_distribution.svg", g, height = 5, width = 7)
+
+
+cts_df <- data.frame(x = as.vector(cts[cts != 0]))
+cts_df %>%
+  ggplot(aes(x=x))+
+  geom_histogram() +
+  scale_x_log10() +
+  annotate(geom="text", x = 4e-6, y = 4000,
+         label=paste0("Mean = ", round(mean(cts_df$x), 5),
+                      "\nVariance = ", round(var(cts_df$x), 5))) +
+  labs(x = "Normalized read proportion",
+       y = "Count") -> g
+ggsave("../figures/nonzero_cts_distribution.svg", g, height = 5, width = 7)
+
 res %>%
   ggplot(aes(x = glm.nb_est)) +
   geom_histogram()
